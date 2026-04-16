@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\bin\Debug\Project_Sıfrelı_Verıler.exe.config
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\bin\Debug\Project_Sıfrelı_Verıler.exe
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\bin\Debug\Project_Sıfrelı_Verıler.pdb
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.Form1.resources
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.Properties.Resources.resources
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.exe
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.pdb
+C:\Users\PC\Desktop\25 DERSTE 25 UYG. PROJE\Project_Sıfrelı_Verıler\Project_Sıfrelı_Verıler\obj\Debug\Project_Sıfrelı_Verıler.exe.config
